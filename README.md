@@ -85,7 +85,7 @@ It is created using **Excel and Power BI**, utilizing powerful data modeling and
 
 ## <p align="center">👥 Contributor 👇</p>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/aad5783a-381a-4960-81e8-fbe9621f21b3"<img width="100" height="100" alt="Suni Rajpoot" />"</p>
+<p align="center"><img src="https://github.com/user-attachments/assets/aad5783a-381a-4960-81e8-fbe9621f21b3"<img width="100" height="100" alt="Suni Rajpoot" /></p>
 <p align="center">Created And Developed By <a href="https://www.linkedin.com/in/sunilmbaedu/">Sunil Rajpoot</a></p>
 
 <p align="center">📩 Contact for queries, suggestions, or collaborations, feel free to reach out: 👉👉  <a href="https://linkedin.com/in/sunilmbaedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunilmbaedu" height="17" width="17" /></a></p>
